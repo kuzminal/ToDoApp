@@ -1,4 +1,4 @@
-package com.kuzmin.app.todo.validation;
+package com.kuzmin.app.todo.api.validation;
 
 import org.springframework.validation.Errors;
 import org.springframework.validation.ObjectError;

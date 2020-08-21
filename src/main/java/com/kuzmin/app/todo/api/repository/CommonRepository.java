@@ -1,4 +1,4 @@
-package com.kuzmin.app.todo.repository;
+package com.kuzmin.app.todo.api.repository;
 
 import java.util.Collection;
 

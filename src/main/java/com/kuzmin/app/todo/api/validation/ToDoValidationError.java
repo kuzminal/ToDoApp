@@ -1,4 +1,4 @@
-package com.kuzmin.app.todo.validation;
+package com.kuzmin.app.todo.api.validation;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 

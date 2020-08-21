@@ -1,4 +1,4 @@
-package com.kuzmin.app.todo.domain;
+package com.kuzmin.app.todo.api.domain;
 
 public class ToDoBuilder {
     private static ToDoBuilder instance = new ToDoBuilder();
